@@ -5,3 +5,9 @@
 .page {
   max-width: unset;
 }
+.table-container > table {
+  margin: 0rem;
+}
+.table-container > table th, .table-container > table td {
+  min-width: 66px;
+}
