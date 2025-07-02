@@ -74,7 +74,7 @@ const config: QuartzConfig = {
         enableYouTubeEmbed: false,
         enableVideoEmbed: false,
         enableCheckbox: false,
-        enableSoftLineBreaks: true  // 关键配置
+        enableSoftLineBreaks: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
