@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Schibsted Grotesk, Noto Sans SC, -apple-system, BlinkMacSystemFont, sans-serif",
+        body: "Source Sans Pro, Noto Sans SC, -apple-system, BlinkMacSystemFont, sans-serif",
+        code: "IBM Plex Mono, JetBrains Mono, Consolas, monospace",
       },
       colors: {
         lightMode: {
