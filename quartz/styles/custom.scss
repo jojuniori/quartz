@@ -5,9 +5,20 @@
 .page {
   max-width: unset;
 }
-.table-container > table {
+
+.table-container>table {
   margin: 0rem;
 }
-.table-container > table th, .table-container > table td {
-  min-width: 66px;
+
+.table-container>table th,
+.table-container>table td {
+  min-width: 40px;
+}
+
+.table-container>table th {
+  text-align: center;
+}
+
+.table-container>table td {
+  border: 1px solid gainsboro;
 }
