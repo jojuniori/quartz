@@ -1,6 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import fs from "fs"
+import React from "react"
+
 const alibabaFont = fs.readFileSync("./quartz/static/AlibabaPuHuiTi-3-55-Regular.ttf")
 
 /**
