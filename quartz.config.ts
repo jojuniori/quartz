@@ -74,9 +74,9 @@ const config: QuartzConfig = {
         enableYouTubeEmbed: false,
         enableVideoEmbed: false,
         enableCheckbox: false,
-        enableSoftLineBreaks: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
@@ -97,24 +97,11 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages({
-        fontPath: "./quartz/static/AlibabaPuHuiTi-3-55-Regular.ttf", // 字体文件路径
-        fontSize: 72, // 字体大小
-        fontColor: "#ffffff", // 字体颜色
-        backgroundColor: "#1e293b", // 背景颜色
-        width: 1200, // 图片宽度
-        height: 630, // 图片高度
-        // 支持中文字符的额外配置
-        textWrap: true, // 启用文本换行
-        maxLineLength: 20, // 最大行长度（中文字符）
-        lineHeight: 1.2, // 行高
-        textAlign: "center", // 文本对齐
-        // 字体子集化配置（可选，用于减小字体文件大小）
-        fontSubset: "chinese-simplified",
-      }),
+      // CustomOgImages with correct configuration for Chinese fonts
+      // Plugin.CustomOgImages(),
     ],
   },
 }
 
 export default config
+ 
