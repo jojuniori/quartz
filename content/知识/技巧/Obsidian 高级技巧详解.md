@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Obsidian 高级技巧详解","created":"2025-03-15","modified":"2025-07-02","tags":["技巧"],"cssclasses":""}
+{"publish":true,"title":"Obsidian 高级技巧详解","created":"2025-03-15","modified":"2025-07-05","tags":["技巧"],"cssclasses":""}
 ---
 
 
@@ -141,12 +141,12 @@ priority: 高
 ```markdown
 | File                                 | 创建日期           | 状态 | 优先级 |
 | ------------------------------------ | -------------- | -- | --- |
-| [[项目规划/🎧 MoeMusic\|🎧 MoeMusic]] | March 18, 2025 | 归档 | 低   |
+| [[项目规划/🎧 MoeMusic.md\|🎧 MoeMusic]] | March 18, 2025 | 归档 | 低   |
 
 
 | File                                 | 创建日期           | 状态 | 优先级 |
 | ------------------------------------ | -------------- | -- | --- |
-| [[项目规划/🎧 MoeMusic\|🎧 MoeMusic]] | March 18, 2025 | 归档 | 低   |
+| [[项目规划/🎧 MoeMusic.md\|🎧 MoeMusic]] | March 18, 2025 | 归档 | 低   |
 
 ### 最佳实践
 
@@ -157,3 +157,106 @@ priority: 高
 5. **利用插件**：结合 Dataview、Templater、MetaEdit 等插件充分利用元数据
 
 通过结合使用 MOC 和 YAML 前置元数据，您可以创建一个既有结构化组织又有灵活性的知识管理系统，让您的 Obsidian 知识库更加强大和实用。
+
+
+
+根据你提供的 Quartz 4 官方文档页面，那种带图标和蓝色底的 "Flags and options" 部分是使用 **Markdown 的 callout 语法** 实现的。
+
+## Quartz 4 中的 Callout 语法
+
+在 Quartz 4 中，你可以使用以下语法创建带样式的提示框：
+
+````markdown
+> [!info] Flags and options
+> For full help options, you can run `npx quartz build --help`.
+> 
+> Most of these have sensible defaults but you can override them if you have a custom setup:
+> - `-d` or `--directory`: the content folder. This is normally just `content`
+> - `-v` or `--verbose`: print out extra logging information
+> - `-o` or `--output`: the output folder. This is normally just `public`
+````
+
+> [!info] Flags and options
+> For full help options, you can run `npx quartz build --help`.
+> 
+> Most of these have sensible defaults but you can override them if you have a custom setup:
+> - `-d` or `--directory`: the content folder. This is normally just `content`
+> - `-v` or `--verbose`: print out extra logging information
+> - `-o` or `--output`: the output folder. This is normally just `public`
+
+## 可用的 Callout 类型
+
+Quartz 4 支持多种 callout 类型，每种都有不同的颜色和图标：
+
+- `[!info]` - 蓝色，信息图标
+- `[!warning]` - 黄色，警告图标  
+- `[!error]` - 红色，错误图标
+- `[!success]` - 绿色，成功图标
+- `[!note]` - 灰色，笔记图标
+- `[!tip]` - 绿色，提示图标
+
+## 语法要点
+
+1. **开头**：使用 `>` 引用符号
+2. **标识符**：`[!类型]` 后面跟标题
+3. **内容**：每行都需要 `>` 开头
+4. **支持 Markdown**：内部可以使用代码块、列表等格式
+
+这样就能创建出像官方文档中那样美观的带图标和彩色背景的提示框了。
+
+根据 Quartz 4 官方文档，那种单独被框起来的 `.gitlab-ci.yml` 是使用 **文件名标注语法** 实现的。
+
+## 语法格式
+
+在 Markdown 中，你可以这样写：
+
+````markdown
+In your local Quartz, create a new file `.gitlab-ci.yml`.
+
+`.gitlab-ci.yml`
+```yaml
+# 这里是文件内容
+```
+````
+
+In your local Quartz, create a new file `.gitlab-ci.yml`.
+
+`.gitlab-ci.yml`
+```yaml
+# 这里是文件内容
+```
+## 实际效果
+
+这会产生两个效果：
+1. **行内代码**：句子中的 `.gitlab-ci.yml` 会被灰色背景框起来
+2. **文件标题**：单独一行的 `.gitlab-ci.yml` 作为代码块的标题显示
+
+## 更完整的示例
+
+````markdown
+Create a new file `.gitlab-ci.yml` in your project root.
+
+`.gitlab-ci.yml`
+```yaml
+image: node:18-alpine
+
+pages:
+  stage: deploy
+  script:
+    - npm ci
+    - npx quartz build
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+```
+````
+
+## 关键点
+
+- **行内代码**：用单个反引号 `` ` `` 包围文件名
+- **文件标题**：单独成行，通常放在代码块前面
+- **代码块**：用三个反引号 ``` 包围，并指定语言类型
+
+这样就能创建出像官方文档中那样的文件名标注效果了。
