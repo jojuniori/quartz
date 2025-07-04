@@ -1,10 +1,9 @@
 ---
-{"publish":true,"title":"📖 引言","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+{"publish":true,"title":"PQQ研究历程记录","created":"2024-10-27","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
 ---
 
 
 # 📜 PQQ研究历程
-
 ## 📖 引言
 
 PQQ（吡咯并喹啉醌）的发现之旅，是一个跨越了半个多世纪的科学故事。

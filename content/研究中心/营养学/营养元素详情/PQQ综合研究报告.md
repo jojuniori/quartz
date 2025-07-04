@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"📝 执行摘要","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+{"publish":true,"title":"PQQ综合研究报告","created":"2024-10-27","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
 ---
 
 
