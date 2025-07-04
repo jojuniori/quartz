@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-04","modified":"2025-07-04","tags":["营养学"],"cssclasses":""}
+{"publish":true,"created":"2024-10-27","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
 ---
 
 
@@ -90,7 +90,7 @@
 
 ### **📚 深入了解**
 
-[PQQ综合研究报告](PQQ综合研究报告.md)
-[PQQ研究历程记录](PQQ研究历程记录.md)
+#### [PQQ综合研究报告](PQQ综合研究报告.md)
+#### [PQQ研究历程记录](PQQ研究历程记录.md)
 
 ---
