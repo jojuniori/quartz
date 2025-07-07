@@ -137,11 +137,12 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             shareBtn.addEventListener("click", async () => {
               try {
                 const currentUrl = window.location.href
-                const apiUrl = "https://is.gd/create.php?format=simple&url=" + encodeURIComponent(currentUrl)
+                // Using the tinyurl.com API which supports CORS
+                const apiUrl = "https://tinyurl.com/api-create.php?url=" + encodeURIComponent(currentUrl)
 
                 const response = await fetch(apiUrl)
                 if (!response.ok) {
-                  throw new Error(\`is.gd API failed with status: \${response.status}\`)
+                  throw new Error(\`tinyurl API failed with status: \${response.status}\`)
                 }
                 const shortUrl = await response.text()
 
