@@ -24,11 +24,11 @@
 }
 
 .share-button {
-  margin: 1rem 0;
+  border: none;
 }
 
 #share-btn {
-  background: #007acc;
+  background: var(--secondary);
   color: white;
   border: none;
   padding: 8px 16px;
@@ -53,4 +53,8 @@ article ol li {
 
 strong {
   color: brown;
+}
+
+.page>#quartz-body .sidebar {
+  padding: 2rem 2rem 2rem !important;
 }
