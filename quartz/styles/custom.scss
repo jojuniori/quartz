@@ -46,6 +46,10 @@
   transform: translateY(1px);
 }
 
+.page > #quartz-body .sidebar {
+  padding: 2rem !important;
+}
+
 article ul li,
 article ol li {
   padding-bottom: 8px;
@@ -53,8 +57,4 @@ article ol li {
 
 strong {
   color: brown;
-}
-
-.page > #quartz-body .sidebar {
-  padding: 2rem !important;
 }
