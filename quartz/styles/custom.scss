@@ -45,3 +45,12 @@
 #share-btn:active {
   transform: translateY(1px);
 }
+
+article ul li,
+article ol li {
+  padding-bottom: 8px;
+}
+
+strong {
+  color: brown;
+}
