@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"PQQ + NMN + 辅酶Q10","created":"2025-07-05","modified":"2025-07-05","tags":["营养学","协同作用"],"cssclasses":""}
+title: PQQ + NMN + 辅酶Q10
+tags: [营养学, 协同作用]
+created: 2025-07-05
+modified: 2025-07-05
+share: true
 ---
-
 
 ## 🎯 **最佳推荐：早上服用，采用"两步走"策略**
 

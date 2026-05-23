@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"PQQ研究历程记录","created":"2024-10-27","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
+title: PQQ研究历程记录
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-05
+share: true
 ---
-
 
 # 📜 PQQ研究历程
 ## 📖 引言

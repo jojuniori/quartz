@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"维生素 C","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: 维生素 C
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## 维生素 C
 

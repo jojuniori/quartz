@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"EPA (Eicosapentaenoic Acid / 二十碳五烯酸)","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: EPA (Eicosapentaenoic Acid / 二十碳五烯酸)
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## EPA (Eicosapentaenoic Acid / 二十碳五烯酸)
 

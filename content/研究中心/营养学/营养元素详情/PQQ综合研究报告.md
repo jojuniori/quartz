@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"PQQ综合研究报告","created":"2024-10-27","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
+title: PQQ综合研究报告
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-05
+share: true
 ---
-
 
 # 🧬 PQQ（吡咯并喹啉醌）综合科学研究报告
 

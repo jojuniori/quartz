@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"氯 (Chloride)","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: 氯 (Chloride)
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## 氯 (Chloride)
 

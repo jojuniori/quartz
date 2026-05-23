@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"槲皮素(Quercetin)","created":"2025-07-19","modified":"2025-07-19","tags":["营养学","营养元素"],"cssclasses":""}
+title: 槲皮素(Quercetin)
+tags: [营养学, 营养元素]
+created: 2025-07-19
+modified: 2025-07-19
+share: true
 ---
-
 
 ## 槲皮素(Quercetin)
 

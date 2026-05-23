@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"Zinc 锌","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: Zinc 锌
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## Zinc 锌
 

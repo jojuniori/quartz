@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"番茄红素 (Lycopene)","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: 番茄红素 (Lycopene)
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## 番茄红素 (Lycopene)
 

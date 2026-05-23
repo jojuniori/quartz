@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"NMN β-烟酰胺单核苷酸","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: NMN β-烟酰胺单核苷酸
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## NMN β-烟酰胺单核苷酸
 

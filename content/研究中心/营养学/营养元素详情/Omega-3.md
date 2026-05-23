@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"Omega-3 脂肪酸 (Essential Omega-3 Fatty Acids)","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: Omega-3 脂肪酸 (Essential Omega-3 Fatty Acids)
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## Omega-3 脂肪酸 (Essential Omega-3 Fatty Acids)
 

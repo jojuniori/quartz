@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"氨基葡萄糖","created":"2024-10-27","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
+title: 氨基葡萄糖
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-05
+share: true
 ---
-
 
 ## 氨基葡萄糖
 

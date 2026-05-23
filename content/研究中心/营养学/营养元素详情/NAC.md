@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"NAC (N-Acetyl Cysteine) 乙酰半胱氨酸","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: NAC (N-Acetyl Cysteine) 乙酰半胱氨酸
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## NAC (N-Acetyl Cysteine) 乙酰半胱氨酸
 

@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"虾青素 Astaxanthin","created":"2024-10-27","modified":"2025-07-04","tags":["营养学","营养元素"],"cssclasses":""}
+title: 虾青素 Astaxanthin
+tags: [营养学, 营养元素]
+created: 2024-10-27
+modified: 2025-07-04
+share: true
 ---
-
 
 ## 虾青素 Astaxanthin
 

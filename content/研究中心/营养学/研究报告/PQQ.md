@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"PQQ","created":"2025-07-08","modified":"2025-07-08","tags":["研究报告"],"cssclasses":""}
+title: PQQ
+tags: [研究报告]
+created: 2025-07-08
+modified: 2025-07-08
+share: true
 ---
-
 
 # 🧬 吡咯并喹啉醌 (PQQ) 的双盲人体临床试验效益与风险综合评估报告
 

@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"PQQ对线粒体和端粒酶的影响","created":"2025-07-05","modified":"2025-07-05","tags":["营养学","营养元素"],"cssclasses":""}
+title: PQQ对线粒体和端粒酶的影响
+tags: [营养学, 营养元素]
+created: 2025-07-05
+modified: 2025-07-05
+share: true
 ---
-
 
 ## 虽然PQQ不能提升端粒酶活性，但是**确实能增加线粒体数量**
 

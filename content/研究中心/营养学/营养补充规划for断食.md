@@ -1,7 +1,12 @@
 ---
-{"publish":true,"permalink":"/npp","title":"营养补充规划for断食","created":"2025-08-28","modified":"2025-09-04","tags":["营养学"],"cssclasses":""}
+title: 营养补充规划for断食
+tags:
+  - 营养学
+created: 2025-08-28
+modified: 2025-09-04
+share: true
+permalink: /npp
 ---
-
 **注：本规划是我个人对自己采取的规划，仅供参考，并根据您自身的情况作出适应的调整**
 ## 营养补剂时间表for断食
 
